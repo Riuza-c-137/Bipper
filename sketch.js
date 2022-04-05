@@ -63,7 +63,6 @@ function draw() {
       ding.play();
     }
   }
-
   //   push();
   //   rotate(secondAngle);
   //   stroke(255, 100, 150);
