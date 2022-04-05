@@ -1,2 +1,2 @@
-# Dinger
-Timer qui ding toutes les 15 secondes, utilisé comme ressource pédagogique
+# Bipper
+Timer qui bip toutes les 15 secondes, utilisé dans un cours de collège.
